@@ -169,15 +169,15 @@ Palacode Tomato Market in Palacode, Dharmapuri is a top player in the category T
 ## OUTPUT
 ![Output](./screenshots/out1.png)
 
-![Output](./screenshots/hmg.png)
+![Output](./screenshots/out2.png)
 
-![Output](./screenshots/ll.png)
+![Output](./screenshots/out3.png)
 
-![Output](./screenshots/pk.png)
+![Output](./screenshots/out4.png)
 
-![Output](./screenshots/po.png)
+![Output](./screenshots/out5.png)
 
-![Output](./screenshots/tm.png)
+![Output](./screenshots/out6.png)
 
 ## HTML Validator
 ![HTML Validator](./sceenshots/valid.png)
