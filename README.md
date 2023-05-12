@@ -180,7 +180,7 @@ Palacode Tomato Market in Palacode, Dharmapuri is a top player in the category T
 ![Output](./screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./sceenshots/valid.png)
+![HTML Validator](./screenshots/valid.png)
 
 ## RESULT:
 The program for implementing image maps using HTML is executed successfully.
